@@ -4,15 +4,15 @@
 }
 .Hi {
     font-size: 80px;
-    font-family: Brush Script MT;
+    font-family: cursive;
 }
 .HelloLines {
     font-size: 30px;
 }
 .Me {
     position: absolute;
-    height: 700px;
-    width: 350px;
+    height: 600px;
+    width: 250px;
     left: 1000px;
     bottom: 0px;
 }
